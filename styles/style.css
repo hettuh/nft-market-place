@@ -1105,7 +1105,6 @@ footer button{
 
 /* MEDIA QUERY */
 
-
 @media(min-width:1700px){
 
     .main-container-wrapper, .second-container, .third-container,
@@ -1116,7 +1115,6 @@ footer button{
     .fourth-container h1{
         text-align: center;
         margin-bottom: 2rem;
-        /* margin: auto; */
     }
 
 }
