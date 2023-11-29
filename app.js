@@ -228,6 +228,8 @@ tabFive.addEventListener("click", ()=>{
     tabTwo.style.backgroundColor = 'rgba(128, 128, 128, 0.295)';
 });
 
+
+
 const openModal = document.querySelectorAll('.place-bid')
 const closeModal = document.querySelector('.close-modal')
 const addModal = document.querySelector('.modal-bg')
