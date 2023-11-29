@@ -114,6 +114,7 @@ imagesThree.forEach(n => n.addEventListener("click", () => {
     console.log(n)
 }));
 
+// TABS
 
 const tabOne = document.querySelector(".tab-one")
 const tabTwo = document.querySelector(".tab-two")
@@ -229,6 +230,7 @@ tabFive.addEventListener("click", ()=>{
 });
 
 
+// Modal
 
 const openModal = document.querySelectorAll('.place-bid')
 const closeModal = document.querySelector('.close-modal')
