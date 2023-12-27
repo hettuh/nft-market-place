@@ -1089,7 +1089,7 @@ footer button{
 
 @keyframes spawn {
     0%{
-        transform: scale(0);
+        /* transform: scale(0); */
         opacity: 0;
     }
     /* 70%{
