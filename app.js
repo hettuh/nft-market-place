@@ -85,7 +85,7 @@ const countdown = () =>{
 
 };
 
-setInterval(countdown, 1000)
+// setInterval(countdown, 1000)
 
 // Image display
 
