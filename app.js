@@ -78,7 +78,7 @@ const countdown = () =>{
         if(textSeconds < 10){
             seconds.innerHTML = "0" + textSeconds;
         };
-        if(timeLeft < 0){
+        // if(timeLeft < 0){
             seconds.innerHTML = "00";
         };
     });
