@@ -81,7 +81,7 @@ const countdown = () =>{
         if(timeLeft < 0){
             seconds.innerHTML = "00";
         };
-    // });
+    });
 
 };
 
