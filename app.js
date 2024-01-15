@@ -12,7 +12,7 @@ li.forEach(n => n.addEventListener("click", ()=>{
 }));
 
 headerButton.forEach(n => n.addEventListener("click", ()=>{
-    // header.classList.remove('header-active');
+    header.classList.remove('header-active');
 }));
 
 
